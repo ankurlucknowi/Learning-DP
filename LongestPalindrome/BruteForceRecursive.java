@@ -1,6 +1,6 @@
 class BruteForceRecursive {
     public static void BruteForceRecursive(String args[]) {
-        System.out.println(longestPalindrome("babaddtattarrattatddetartrateedredividerb"));
+        System.out.println(longestPalindrome("babad"));
     }
     
     public static String longestPalindrome(String s) {
