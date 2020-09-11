@@ -1,5 +1,6 @@
 class BruteForceRecursive {
     public static void BruteForceRecursive(String args[]) {
+        // Huge amount of time for "babaddtattarrattatddetartrateedredividerb".. works for smaller inputs
         System.out.println(longestPalindrome("babad"));
     }
     
